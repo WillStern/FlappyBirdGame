@@ -1,0 +1,17 @@
+﻿  BasicGame.cpp
+  Engine.cpp
+  Sprite.cpp
+  Texture.cpp
+  Keyboard.cpp
+  Mouse.cpp
+  Math.cpp
+  Rect.cpp
+  Vector3.cpp
+  Rigidbody.cpp
+  Background.cpp
+  Flapper.cpp
+  GameManager.cpp
+  Pipe.cpp
+  PipeManager.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\will.stern\source\repos\Project1\Debug\BasicGame.exe
